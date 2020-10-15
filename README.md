@@ -1,2 +1,1 @@
-# 代码。。。
-主要用来留给备份的，
+[教程]（https://zky.gs/index.php/gossip/2020/21.html）
