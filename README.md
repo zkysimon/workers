@@ -2,5 +2,5 @@
 [教程][1]
 
 
-[1]: https://zky.gs/gossip/2020/21.html
+[1]: https://zky.gs/index.php/gossip/2020/21.html
 [2]: https://github.com/qkqpttgf/OneManager-php/issues
